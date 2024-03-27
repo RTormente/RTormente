@@ -1,6 +1,6 @@
 <h1 align='center'> Rodrigo Tormente </h1>
 
-Com mais de 15 anos de experiência no universo tecnológico, grande parte dedicada ao suporte técnico, estou pronto para dar um novo passo em direção ao desenvolvimento, trazendo comigo um conjunto singular de experiências e habilidades. Apesar de minha jornada no desenvolvimento ter sido interrompida em uma era onde os sites eram construídos em tabelas, minha sede de conhecimento nunca cessou. Com uma personalidade introvertida porém sociável, e uma paixão pela aprendizagem contínua, estou sempre disposto para enfrentar qualquer desafio que o futuro possa trazer.
+Com mais de 10 anos de experiência no universo tecnológico, grande parte dedicada ao suporte técnico, estou pronto para dar um novo passo em direção ao desenvolvimento, trazendo comigo um conjunto singular de experiências e habilidades. Apesar de minha jornada no desenvolvimento ter sido interrompida em uma era onde os sites eram construídos em tabelas, minha sede de conhecimento nunca cessou. Com uma personalidade introvertida porém sociável, e uma paixão pela aprendizagem contínua, estou sempre disposto para enfrentar qualquer desafio que o futuro possa trazer.
 
 ## Contatos
 
